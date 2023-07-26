@@ -4,9 +4,8 @@
 
 Hi there, I study computer science.
 
-I am Egyptian from Alexandria. Now I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
-
-I love programming and I love Swift.
+I am Egyptian from Alexandria. 
+I love Software engineering and I love  AI.
 
 ### Talking about Personal Stuffs:
 
