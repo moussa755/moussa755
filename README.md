@@ -2,9 +2,9 @@
 
 ## Hey 👋, I'm Mohammed Moussa
 
-Hi there, I'm **Albert Abdilim**, a **medical student**.
+Hi there, I study computer science.
 
-I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in China. Now I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
+I am Egyptian from Alexandria. Now I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
 
 I love programming and I love Swift.
 
