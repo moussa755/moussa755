@@ -8,11 +8,11 @@ I am Egyptian from Alexandria.
 I love Software engineering and I love  AI.
 
 ### Speaking of personal things:
-👨🏽‍💻 I am currently a computer science student in my fourth year;
-🤔 My interests are with Software Engineering and macOS, Artificial Intelligence, Python, etc..;
-💼 I am in training at ALX company in the field of software engineering
-💬 Ask me anything, I'm happy to help;
-📫 Please email me if you have any questions.
+-👨🏽‍💻 I am currently a computer science student in my fourth year;
+-🤔 My interests are with Software Engineering and macOS, Artificial Intelligence, Python, etc..;
+-💼 I am in training at ALX company in the field of software engineering
+-💬 Ask me anything, I'm happy to help;
+-📫 Please email me if you have any questions.
 
 ### Languages and Tools:
 
