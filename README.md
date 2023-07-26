@@ -7,13 +7,12 @@ Hi there, I study computer science.
 I am Egyptian from Alexandria. 
 I love Software engineering and I love  AI.
 
-### Talking about Personal Stuffs:
-
-- 👨🏽‍💻 I’m currently a medical student at my 4th year; 
-- 🤔 My interests are with iOS and macOS programming, AI in medical, Python etc..;
-- 💼 I’m pursuing a Bachelor's degree in Medical Imaging;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email me if you have any questions.
+### Speaking of personal things:
+👨🏽‍💻 I am currently a computer science student in my fourth year;
+🤔 My interests are with Software Engineering and macOS, Artificial Intelligence, Python, etc..;
+💼 I am in training at ALX company in the field of software engineering
+💬 Ask me anything, I'm happy to help;
+📫 Please email me if you have any questions.
 
 ### Languages and Tools:
 
