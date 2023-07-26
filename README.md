@@ -32,11 +32,10 @@ I love Software engineering and I love  AI.
 
 - linkedin: [![linkedin]([https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn](https://www.linkedin.com/in/mohamed-mousa-0681551a1/))
 - Twitter: [![Twitter]([https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim](https://twitter.com/mousa__1911)) 
-- Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951)
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.abdilim@foxmail.com)
+- Email: [![Email](mossam808@gmail.com)
 
 ### My GitHub Stats
 
 ![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=L1cardo&show_icons=true)
 
-⭐️ From [L1cardo](https://github.com/L1cardo)
+
