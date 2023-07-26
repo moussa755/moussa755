@@ -22,7 +22,7 @@ I love Software engineering and I love  AI.
 ### Languages and Tools:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
+![C]([https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white](https://www.google.com/search?sxsrf=AB5stBjPMIblKaw34qo2E8rxco9sin_Rjw:1690378739924&q=c+programming&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiIy9DCv6yAAxXYUqQEHSwqAIMQ0pQJegQIDhAB&biw=1536&bih=760&dpr=1.25#imgrc=vrA2q-vhbUoPsM))
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
 ![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
