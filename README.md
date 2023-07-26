@@ -34,7 +34,7 @@ I love Software engineering and I love  AI.
 - Twitter: [![Twitter]([https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim](https://twitter.com/mousa__1911)) 
 - Email: [![Email](mossam808@gmail.com)
 
-### My GitHub Stats
+
 
 
 
