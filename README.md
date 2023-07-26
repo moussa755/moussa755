@@ -1,6 +1,6 @@
 ![me](https://github.com/L1cardo/L1cardo/raw/master/assets/me.gif)
 
-## Hey 👋, I'm Albert Abdilim
+## Hey 👋, I'm Mohammed Moussa
 
 Hi there, I'm **Albert Abdilim**, a **medical student**.
 
